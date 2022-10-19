@@ -15,6 +15,8 @@ namespace class_cpp_pkg
 
         void lidarPointsPrinter(sensor_msgs::PointCloud2 &t_cloud);
 
+        void lidarHeaderNamePrinter(std::string &t_name);
+
     };
 
 
