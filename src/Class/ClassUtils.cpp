@@ -6,6 +6,7 @@ namespace class_cpp_pkg
 
 ClassUtils::ClassUtils()
 {
+    ROS_INFO("COUNSTROCTOR");
 
 }
 
